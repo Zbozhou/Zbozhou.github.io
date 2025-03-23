@@ -8,7 +8,7 @@ main:
     code: https://github.com/fudan-zvg/BridgeAD
     image: assets/img/zbz/2025cvpr_bridgead.PNG
   
-  - title: Motion Forecasting in Continuous Driving
+  - title: 'Motion Forecasting in Continuous Driving'
     authors: Nan Song, <strong>Bozhou Zhang</strong>, Xiatian Zhu, Li Zhang†
     conference_short: NeurIPS 2024
     conference: Advances in Neural Information Processing Systems
@@ -16,7 +16,7 @@ main:
     code: https://github.com/fudan-zvg/RealMotion
     image: assets/img/zbz/2024neurips_realmotion.PNG
 
-  - title: End-to-end Video Gaze Estimation via Capturing Head-face-eye Spatial-temporal Interaction Context
+  - title: 'DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States'
     authors: <strong>Bozhou Zhang</strong>, Nan Song, Li Zhang†
     conference_short: NeurIPS 2024
     conference: Advances in Neural Information Processing Systems
