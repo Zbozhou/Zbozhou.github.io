@@ -1,7 +1,7 @@
 main:
 
   - title: 'Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning'
-    authors: <strong>Bozhou Zhang</strong>, Nan Song, Xin Jin, Li Zhang†
+    authors: <strong>Bozhou Zhang</strong>, Nan Song, Xin Jin, Li Zhang
     conference_short: CVPR 2025
     conference: IEEE Conference on Computer Vision and Pattern Recognition
     pdf: https://arxiv.org/abs/2503.14182
@@ -9,7 +9,7 @@ main:
     image: assets/img/zbz/2025cvpr_bridgead.PNG
   
   - title: 'Motion Forecasting in Continuous Driving'
-    authors: Nan Song, <strong>Bozhou Zhang</strong>, Xiatian Zhu, Li Zhang†
+    authors: Nan Song, <strong>Bozhou Zhang</strong>, Xiatian Zhu, Li Zhang
     conference_short: NeurIPS 2024
     conference: Advances in Neural Information Processing Systems
     pdf: https://arxiv.org/abs/2410.06007
@@ -17,7 +17,7 @@ main:
     image: assets/img/zbz/2024neurips_realmotion.PNG
 
   - title: 'DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States'
-    authors: <strong>Bozhou Zhang</strong>, Nan Song, Li Zhang†
+    authors: <strong>Bozhou Zhang</strong>, Nan Song, Li Zhang
     conference_short: NeurIPS 2024
     conference: Advances in Neural Information Processing Systems
     pdf: https://arxiv.org/abs/2410.05982
