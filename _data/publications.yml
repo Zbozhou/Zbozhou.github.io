@@ -1,5 +1,13 @@
 main:
 
+  - title: 'DeMo++: Motion Decoupling for Autonomous Driving'
+    authors: <strong>Bozhou Zhang</strong>*, Nan Song*, Xiatian Zhu, Li Zhang
+    conference_short: arXiv 2025
+    conference: arXiv preprint
+    pdf: https://arxiv.org/abs/2507.17342
+    code: https://github.com/fudan-zvg/DeMo
+    image: assets/img/zbz/2025arxiv_demoplus.png
+
   - title: 'Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning'
     authors: <strong>Bozhou Zhang</strong>, Nan Song, Xin Jin, Li Zhang
     conference_short: CVPR 2025
