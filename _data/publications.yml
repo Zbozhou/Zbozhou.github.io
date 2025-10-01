@@ -1,12 +1,12 @@
 main:
 
-  - title: 'DeMo++: Motion Decoupling for Autonomous Driving'
-    authors: <strong>Bozhou Zhang</strong>*, Nan Song*, Xiatian Zhu, Li Zhang
-    conference_short: arXiv 2025
-    conference: arXiv preprint
-    pdf: https://arxiv.org/abs/2507.17342
-    code: https://github.com/fudan-zvg/DeMo
-    image: assets/img/zbz/2025arxiv_demoplus.png
+  - title: 'Translating Images to Road Network: A Sequence-to-Sequence Perspective'
+    authors: Jiachen Lu*, Ming Nie*, <strong>Bozhou Zhang</strong>*, Renyuan Peng, Xinyue Cai, Hang Xu, Feng Wen, Wei Zhang, Li Zhang
+    conference_short: IEEE TPAMI 2025
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
+    pdf: https://ieeexplore.ieee.org/abstract/document/11175545
+    code: https://github.com/fudan-zvg/RoadNet
+    image: assets/img/zbz/2025pami_roadnet.png
 
   - title: 'Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning'
     authors: <strong>Bozhou Zhang</strong>, Nan Song, Xin Jin, Li Zhang
@@ -31,3 +31,11 @@ main:
     pdf: https://arxiv.org/abs/2410.05982
     code: https://github.com/fudan-zvg/DeMo
     image: assets/img/zbz/2024neurips_demo.PNG
+
+  - title: 'DeMo++: Motion Decoupling for Autonomous Driving'
+    authors: <strong>Bozhou Zhang</strong>*, Nan Song*, Xiatian Zhu, Li Zhang
+    conference_short: arXiv 2025
+    conference: arXiv preprint
+    pdf: https://arxiv.org/abs/2507.17342
+    code: https://github.com/fudan-zvg/DeMo
+    image: assets/img/zbz/2025arxiv_demoplus.png
