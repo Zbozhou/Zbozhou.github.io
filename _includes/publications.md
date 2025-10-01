@@ -2,7 +2,7 @@
 
 <br/>
 
-(*Equal contribution, †Corresponding authors) 
+(*Equal contribution) 
 
 <div class="publications">
 <ol class="bibliography">
