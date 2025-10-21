@@ -4,8 +4,8 @@ main:
     authors: <strong>Bozhou Zhang</strong>, Nan Song, Jingyu Li, Xiatian Zhu, Jiankang Deng, Li Zhang
     conference_short: NeurIPS 2025
     conference: Annual Conference on Neural Information Processing Systems
-    pdf: https://arxiv.org/abs/xxx
-    code: https://github.com/LogosRoboticsGroup/xxx
+    pdf: https://arxiv.org/abs/2510.11092
+    code: https://github.com/LogosRoboticsGroup/SeerDrive
     image: assets/img/zbz/2025nips_seerdrive.PNG
 
   - title: 'Translating Images to Road Network: A Sequence-to-Sequence Perspective'
