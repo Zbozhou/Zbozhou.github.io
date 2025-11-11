@@ -1,5 +1,13 @@
 main:
 
+  - title: 'Perception in Plan: Coupled Perception and Planning for End-to-End Autonomous Driving'
+    authors: <strong>Bozhou Zhang</strong>*, Jingyu Li*, Nan Song, Li Zhang
+    conference_short: AAAI 2026
+    conference: Annual AAAI Conference on Artificial Intelligence
+    pdf: https://arxiv.org/abs/2508.11488
+    code: https://github.com/LogosRoboticsGroup/VeteranAD
+    image: assets/img/zbz/2026aaai_veteranad.png
+
   - title: 'Future-Aware End-to-End Driving: Bidirectional Modeling of Trajectory Planning and Scene Evolution'
     authors: <strong>Bozhou Zhang</strong>, Nan Song, Jingyu Li, Xiatian Zhu, Jiankang Deng, Li Zhang
     conference_short: NeurIPS 2025
@@ -40,10 +48,10 @@ main:
     code: https://github.com/fudan-zvg/DeMo
     image: assets/img/zbz/2024neurips_demo.PNG
 
-  - title: 'DeMo++: Motion Decoupling for Autonomous Driving'
-    authors: <strong>Bozhou Zhang</strong>*, Nan Song*, Xiatian Zhu, Li Zhang
-    conference_short: arXiv 2025
-    conference: arXiv preprint
-    pdf: https://arxiv.org/abs/2507.17342
-    code: https://github.com/fudan-zvg/DeMo
-    image: assets/img/zbz/2025arxiv_demoplus.png
+  # - title: 'DeMo++: Motion Decoupling for Autonomous Driving'
+  #   authors: <strong>Bozhou Zhang</strong>*, Nan Song*, Xiatian Zhu, Li Zhang
+  #   conference_short: arXiv 2025
+  #   conference: arXiv preprint
+  #   pdf: https://arxiv.org/abs/2507.17342
+  #   code: https://github.com/fudan-zvg/DeMo
+  #   image: assets/img/zbz/2025arxiv_demoplus.png
