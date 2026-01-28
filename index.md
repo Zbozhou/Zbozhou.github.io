@@ -12,8 +12,8 @@ I am a Ph.D. candidate at Fudan University under the supervision of Prof. [Li Zh
 
 ## Research Interests
 
-- I currently focus on Computer Vision and Autonomous Driving.
-- I am seeking some progress in Embodied AI.
+- I currently focus on Robotics and Autonomous Driving.
+- I am highly enthusiastic about robotics and embodied AI. I welcome any discussion on this topic.
 
 
 

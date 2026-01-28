@@ -1,5 +1,12 @@
 main:
 
+  - title: 'Disentangled Robot Learning via Separate Forward and Inverse Dynamics Pretraining'
+    authors: Wenyao Zhang*, <strong>Bozhou Zhang</strong>*, Zekun Qi, Wenjun Zeng, Xin Jin, Li Zhang
+    conference_short: ICLR 2026
+    conference: International Conference on Learning Representations
+    page: https://openreview.net/forum?id=DdrsHWobR1
+    image: assets/img/zbz/2026iclr_defi.png
+
   - title: 'Perception in Plan: Coupled Perception and Planning for End-to-End Autonomous Driving'
     authors: <strong>Bozhou Zhang</strong>*, Jingyu Li*, Nan Song, Li Zhang
     conference_short: AAAI 2026
