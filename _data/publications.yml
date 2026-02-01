@@ -7,6 +7,22 @@ main:
     page: https://openreview.net/forum?id=DdrsHWobR1
     image: assets/img/zbz/2026iclr_defi.png
 
+  - title: 'Relative Position Matters: Trajectory Prediction and Planning with Polar Representation'
+    authors: <strong>Bozhou Zhang</strong>, Nan Song, Bingzhao Gao, Li Zhang
+    conference_short: ICRA 2026
+    conference: IEEE International Conference on Robotics and Automation
+    pdf: https://arxiv.org/abs/2508.11492
+    code: https://github.com/fudan-zvg/Polaris
+    image: assets/img/zbz/2026icra_polaris.png
+
+  - title: 'ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving'
+    authors: Jingyu Li*, <strong>Bozhou Zhang</strong>*, Xin Jin, Jiankang Deng, Xiatian Zhu, Li Zhang
+    conference_short: ICRA 2026
+    conference: IEEE International Conference on Robotics and Automation
+    pdf: https://arxiv.org/abs/2508.11428
+    code: https://github.com/fudan-zvg/ImagiDrive
+    image: assets/img/zbz/2026icra_imagidrive.png
+
   - title: 'Perception in Plan: Coupled Perception and Planning for End-to-End Autonomous Driving'
     authors: <strong>Bozhou Zhang</strong>*, Jingyu Li*, Nan Song, Li Zhang
     conference_short: AAAI 2026
