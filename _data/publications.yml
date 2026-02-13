@@ -1,4 +1,4 @@
-main:
+robotics:
 
   - title: 'Disentangled Robot Learning via Separate Forward and Inverse Dynamics Pretraining'
     authors: Wenyao Zhang*, <strong>Bozhou Zhang</strong>*, Zekun Qi, Wenjun Zeng, Xin Jin, Li Zhang
@@ -6,6 +6,8 @@ main:
     conference: International Conference on Learning Representations
     page: https://openreview.net/forum?id=DdrsHWobR1
     image: assets/img/zbz/2026iclr_defi.png
+
+autonomous_driving:
 
   - title: 'Relative Position Matters: Trajectory Prediction and Planning with Polar Representation'
     authors: <strong>Bozhou Zhang</strong>, Nan Song, Bingzhao Gao, Li Zhang
