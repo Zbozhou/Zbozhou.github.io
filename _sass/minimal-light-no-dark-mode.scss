@@ -2,27 +2,40 @@
   display: flex; 
   align-items: center;}
 
+.social-icons{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:0.55rem}
+
 .social-icons a{
-  display:inline-block;
-  height:2.4rem;
-  width:2.4rem;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  height:2rem;
+  width:2rem;
   background-color:transparent;
   color:#043361!important;
   border-radius:100%;
   text-align:center;
-  font-size:1.15rem;
-  line-height:2.5rem;
-  margin-right:1rem}
+  font-size:1.2rem;
+  line-height:1;
+  margin:0}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
     transform: scale(1.2)}
 
+.social-icons i{
+  display:block;
+  font-size:1.2rem!important;
+  line-height:1}
+
 .social-icons .huggingface-icon{
-  display:inline-block;
-  width:1.35rem;
+  display:block;
+  width:1.2rem;
   height:auto;
-  vertical-align:-0.2rem}
+  max-height:1.2rem}
 
     /*
     .social-icons a:after {
