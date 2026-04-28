@@ -34,7 +34,6 @@ The latest version of my homepage is available here: [[link](https://github.com/
 |   ├── minimal-light.scss                    #  this file will be compiled into a CSS file to control the style of the page              
 |   └── minimal-light-no-dark-mode.scss       #  this file is similar to minimal-light.scss with the dark mode disabled
 ├── assets                                    #  some files
-├── html_source_file                          #  compiled HTML files
 ├── .gitignore                                #  this file specifies intentionally untracked files that Git should ignore
 ├── CNAME                                     #  the custom domain, will be used by GitHub page sevice
 ├── Gemfile                                   #  a RubyGems related file
@@ -96,10 +95,6 @@ bundle exec jekyll server
 View the live page using `localhost`:
 <http://localhost:4000>. You can get the HTML files in `_site` folder.
 
-### Using the HTML version
-
-The compiled HTML files are available in the `html_source_file` folder. If you don't like Jekyll, you may directly edit and use the HTML version.
-
 ## Customizing
 
 ### Configuration variables
@@ -129,9 +124,9 @@ twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/zbz/myself.jpg
+favicon: ./assets/img/web_logo.svg
+favicon_dark: ./assets/img/web_logo.svg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."

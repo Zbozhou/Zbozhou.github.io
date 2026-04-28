@@ -15,6 +15,7 @@ canonical: https://minimal-light-theme.yliu.me/
 google_scholar: https://scholar.google.com/citations?hl=en&user=eu4ur3cAAAAJ&view_op=list_works&sortby=pubdate
 # cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/Zbozhou
+huggingface: https://huggingface.co/zbzzbz
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
 
@@ -53,5 +54,3 @@ exclude:
   - README_zh_Hant.md
   - README_de.md
   - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/

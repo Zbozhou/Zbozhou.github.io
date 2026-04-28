@@ -79,9 +79,9 @@ linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
 
 # 图片路径
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/zbz/myself.jpg
+favicon: ./assets/img/web_logo.svg
+favicon_dark: ./assets/img/web_logo.svg
 
 # Google Analytics ID
 google_analytics: UA-111540567-4

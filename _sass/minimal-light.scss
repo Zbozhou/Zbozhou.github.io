@@ -19,6 +19,13 @@
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
     transform: scale(1.2)}
+
+.social-icons .huggingface-icon{
+  display:inline-block;
+  width:1.35rem;
+  height:auto;
+  vertical-align:-0.2rem}
+
     /*
     .social-icons a:after {
         content: '';
