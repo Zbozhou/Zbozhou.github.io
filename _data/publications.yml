@@ -10,6 +10,14 @@ robotics:
 
 autonomous_driving:
 
+  - title: 'See Tomorrow, Act Today: Foresight-Driven Autonomous Driving'
+    authors: <strong>Bozhou Zhang</strong>*, Nan Song*, Yuang Wang, Jiankang Deng, Xiatian Zhu, Li Zhang
+    conference_short: CVPR Findings 2026
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+    pdf: https://arxiv.org/abs/2605.07195
+    code: https://github.com/LogosRoboticsGroup/ForeSight
+    image: assets/img/zbz/2026cvpr_foresight.png
+
   - title: 'Relative Position Matters: Trajectory Prediction and Planning with Polar Representation'
     authors: <strong>Bozhou Zhang</strong>, Nan Song, Bingzhao Gao, Li Zhang
     conference_short: ICRA 2026
