@@ -1,5 +1,13 @@
 robotics:
 
+  - title: 'From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation'
+    authors: Yajie Li*, <strong>Bozhou Zhang</strong>*, Chun Gu, Zipei Ma, Jiahui Zhang, Jiankang Deng, Xiatian Zhu, Li Zhang
+    conference_short: ICML 2026
+    conference: International Conference on Machine Learning
+    pdf: https://arxiv.org/abs/2605.12167
+    code: https://logosroboticsgroup.github.io/MoLA/
+    image: assets/img/zbz/2026icml_mola.PNG
+
   - title: 'Disentangled Robot Learning via Separate Forward and Inverse Dynamics Pretraining'
     authors: Wenyao Zhang*, <strong>Bozhou Zhang</strong>*, Zekun Qi, Wenjun Zeng, Xin Jin, Li Zhang
     conference_short: ICLR 2026
