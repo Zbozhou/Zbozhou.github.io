@@ -23,7 +23,6 @@ autonomous_driving:
     conference_short: CVPR Findings 2026
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition
     pdf: https://arxiv.org/abs/2605.07195
-    code: https://github.com/LogosRoboticsGroup/ForeSight
     image: assets/img/zbz/2026cvpr_foresight.png
 
   - title: 'Relative Position Matters: Trajectory Prediction and Planning with Polar Representation'
