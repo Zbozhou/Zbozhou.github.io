@@ -90,10 +90,19 @@ autonomous_driving:
     code: https://github.com/fudan-zvg/DeMo
     image: assets/img/zbz/2024neurips_demo.PNG
 
-  # - title: 'DeMo++: Motion Decoupling for Autonomous Driving'
-  #   authors: <strong>Bozhou Zhang</strong>*, Nan Song*, Xiatian Zhu, Li Zhang
-  #   conference_short: arXiv 2025
-  #   conference: arXiv preprint
-  #   pdf: https://arxiv.org/abs/2507.17342
-  #   code: https://github.com/fudan-zvg/DeMo
-  #   image: assets/img/zbz/2025arxiv_demoplus.png
+preprint:
+
+  - title: 'LMAD: Integrated End-to-End Vision-Language Model for Explainable Autonomous Driving'
+    authors: Nan Song, <strong>Bozhou Zhang</strong>, Xiatian Zhu, Jiankang Deng, Li Zhang
+    conference_short: arXiv 2508
+    conference: arXiv 2508.12404
+    pdf: https://arxiv.org/abs/2508.12404
+    image: assets/img/zbz/2025arxiv_lmad.png
+
+  - title: 'DeMo++: Motion Decoupling for Autonomous Driving'
+    authors: <strong>Bozhou Zhang</strong>*, Nan Song*, Xiatian Zhu, Li Zhang
+    conference_short: arXiv 2507
+    conference: arXiv 2507.17342
+    pdf: https://arxiv.org/abs/2507.17342
+    code: https://github.com/fudan-zvg/DeMo
+    image: assets/img/zbz/2025arxiv_demoplus.png
