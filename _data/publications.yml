@@ -91,6 +91,22 @@ autonomous_driving:
 
 preprint:
 
+  - title: 'Forward Dynamics Models'
+    authors: Zipei Ma, Junzhe Jiang, Jiahui Zhang, Juntong Zhang, Chun Gu, <strong>Bozhou Zhang</strong>, Jiankang Deng, Xiatian Zhu, Li Zhang
+    conference_short: arXiv 2610
+    conference: arXiv 2610.13117
+    pdf: https://arxiv.org/abs/2610.13117
+    code: https://github.com/LogosRoboticsGroup/FDM
+    page: https://logosroboticsgroup.github.io/FDM/
+    image: assets/img/zbz/2026arxiv_fdm.png
+
+  - title: 'PRICE the Action Chunks: Physical Relational Credit Assignment for Embodied Reinforcement Learning'
+    authors: Yangang Zou, Jiajun Lu, Weitao Zhou, Haibao Yu, <strong>Bozhou Zhang</strong>, Jiawei Wang, Honglong Tian, Minglei Li, Li Zhang
+    conference_short: arXiv 2609
+    conference: arXiv 2609.38890
+    pdf: https://arxiv.org/abs/2609.38890
+    image: assets/img/zbz/2026arxiv_price.png
+
   - title: 'LMAD: Integrated End-to-End Vision-Language Model for Explainable Autonomous Driving'
     authors: Nan Song, <strong>Bozhou Zhang</strong>, Xiatian Zhu, Jiankang Deng, Li Zhang
     conference_short: arXiv 2508
