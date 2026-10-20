@@ -5,8 +5,11 @@ robotics:
     conference_short: ICML 2026
     conference: International Conference on Machine Learning
     pdf: https://arxiv.org/abs/2605.12167
-    code: https://logosroboticsgroup.github.io/MoLA/
+    code: https://github.com/LogosRoboticsGroup/MoLA
+    page: https://logosroboticsgroup.github.io/MoLA/
     image: assets/img/zbz/2026icml_mola.PNG
+    image_width: 1219
+    image_height: 659
 
   - title: 'Disentangled Robot Learning via Separate Forward and Inverse Dynamics Pretraining'
     authors: Wenyao Zhang*, <strong>Bozhou Zhang</strong>*, Zekun Qi, Wenjun Zeng, Xin Jin, Li Zhang
@@ -15,6 +18,8 @@ robotics:
     pdf: https://arxiv.org/abs/2604.16391
     code: https://github.com/LogosRoboticsGroup/DeFi
     image: assets/img/zbz/2026iclr_defi.png
+    image_width: 2264
+    image_height: 1078
 
 autonomous_driving:
 
@@ -24,6 +29,8 @@ autonomous_driving:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition
     pdf: https://arxiv.org/abs/2605.07195
     image: assets/img/zbz/2026cvpr_foresight.png
+    image_width: 1457
+    image_height: 703
 
   - title: 'Relative Position Matters: Trajectory Prediction and Planning with Polar Representation'
     authors: <strong>Bozhou Zhang</strong>, Nan Song, Bingzhao Gao, Li Zhang
@@ -32,6 +39,8 @@ autonomous_driving:
     pdf: https://arxiv.org/abs/2508.11492
     code: https://github.com/fudan-zvg/Polaris
     image: assets/img/zbz/2026icra_polaris.png
+    image_width: 1783
+    image_height: 1029
 
   - title: 'ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving'
     authors: Jingyu Li*, <strong>Bozhou Zhang</strong>*, Xin Jin, Jiankang Deng, Xiatian Zhu, Li Zhang
@@ -40,6 +49,8 @@ autonomous_driving:
     pdf: https://arxiv.org/abs/2508.11428
     code: https://github.com/fudan-zvg/ImagiDrive
     image: assets/img/zbz/2026icra_imagidrive.png
+    image_width: 1282
+    image_height: 666
 
   - title: 'Perception in Plan: Coupled Perception and Planning for End-to-End Autonomous Driving'
     authors: <strong>Bozhou Zhang</strong>*, Jingyu Li*, Nan Song, Li Zhang
@@ -48,6 +59,8 @@ autonomous_driving:
     pdf: https://arxiv.org/abs/2508.11488
     code: https://github.com/LogosRoboticsGroup/VeteranAD
     image: assets/img/zbz/2026aaai_veteranad.png
+    image_width: 1763
+    image_height: 889
 
   - title: 'Future-Aware End-to-End Driving: Bidirectional Modeling of Trajectory Planning and Scene Evolution'
     authors: <strong>Bozhou Zhang</strong>, Nan Song, Jingyu Li, Xiatian Zhu, Jiankang Deng, Li Zhang
@@ -56,6 +69,8 @@ autonomous_driving:
     pdf: https://arxiv.org/abs/2510.11092
     code: https://github.com/LogosRoboticsGroup/SeerDrive
     image: assets/img/zbz/2025nips_seerdrive.PNG
+    image_width: 1009
+    image_height: 617
 
   - title: 'Translating Images to Road Network: A Sequence-to-Sequence Perspective'
     authors: Jiachen Lu*, Ming Nie*, <strong>Bozhou Zhang</strong>*, Renyuan Peng, Xinyue Cai, Hang Xu, Feng Wen, Wei Zhang, Li Zhang
@@ -64,6 +79,8 @@ autonomous_driving:
     pdf: https://ieeexplore.ieee.org/abstract/document/11175545
     code: https://github.com/fudan-zvg/RoadNet
     image: assets/img/zbz/2025pami_roadnet.png
+    image_width: 5668
+    image_height: 3476
 
   - title: 'Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning'
     authors: <strong>Bozhou Zhang</strong>, Nan Song, Xin Jin, Li Zhang
@@ -72,6 +89,8 @@ autonomous_driving:
     pdf: https://arxiv.org/abs/2503.14182
     code: https://github.com/fudan-zvg/BridgeAD
     image: assets/img/zbz/2025cvpr_bridgead.PNG
+    image_width: 1237
+    image_height: 691
   
   - title: 'Motion Forecasting in Continuous Driving'
     authors: Nan Song, <strong>Bozhou Zhang</strong>, Xiatian Zhu, Li Zhang
@@ -80,6 +99,8 @@ autonomous_driving:
     pdf: https://arxiv.org/abs/2410.06007
     code: https://github.com/fudan-zvg/RealMotion
     image: assets/img/zbz/2024neurips_realmotion.PNG
+    image_width: 1335
+    image_height: 641
 
   - title: 'DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States'
     authors: <strong>Bozhou Zhang</strong>, Nan Song, Li Zhang
@@ -88,6 +109,8 @@ autonomous_driving:
     pdf: https://arxiv.org/abs/2410.05982
     code: https://github.com/fudan-zvg/DeMo
     image: assets/img/zbz/2024neurips_demo.PNG
+    image_width: 1334
+    image_height: 428
 
 preprint:
 
@@ -99,6 +122,8 @@ preprint:
     code: https://github.com/LogosRoboticsGroup/FDM
     page: https://logosroboticsgroup.github.io/FDM/
     image: assets/img/zbz/2026arxiv_fdm.png
+    image_width: 1871
+    image_height: 832
 
   - title: 'PRICE the Action Chunks: Physical Relational Credit Assignment for Embodied Reinforcement Learning'
     authors: Yangang Zou, Jiajun Lu, Weitao Zhou, Haibao Yu, <strong>Bozhou Zhang</strong>, Jiawei Wang, Honglong Tian, Minglei Li, Li Zhang
@@ -106,6 +131,8 @@ preprint:
     conference: arXiv 2609.38890
     pdf: https://arxiv.org/abs/2609.38890
     image: assets/img/zbz/2026arxiv_price.png
+    image_width: 5475
+    image_height: 2720
 
   - title: 'LMAD: Integrated End-to-End Vision-Language Model for Explainable Autonomous Driving'
     authors: Nan Song, <strong>Bozhou Zhang</strong>, Xiatian Zhu, Jiankang Deng, Li Zhang
@@ -113,6 +140,8 @@ preprint:
     conference: arXiv 2508.12404
     pdf: https://arxiv.org/abs/2508.12404
     image: assets/img/zbz/2025arxiv_lmad.png
+    image_width: 2130
+    image_height: 1100
 
   - title: 'DeMo++: Motion Decoupling for Autonomous Driving'
     authors: <strong>Bozhou Zhang</strong>*, Nan Song*, Xiatian Zhu, Li Zhang
@@ -121,3 +150,5 @@ preprint:
     pdf: https://arxiv.org/abs/2507.17342
     code: https://github.com/fudan-zvg/DeMo
     image: assets/img/zbz/2025arxiv_demoplus.png
+    image_width: 6098
+    image_height: 2033

@@ -6,14 +6,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at Fudan University under the supervision of Prof. [Li Zhang](https://lzrobots.github.io/). Previously, I got bachelor's degree at [Beihang University](https://www.buaa.edu.cn/). 
+I am a Ph.D. candidate at Fudan University under the supervision of Prof. [Li Zhang](https://lzrobots.github.io/). I received my bachelor's degree from [Beihang University](https://www.buaa.edu.cn/).
 
 
 
 ## Research Interests
 
-- I currently focus on Robotics and Autonomous Driving.
-- I am highly enthusiastic about robotics and embodied AI. I welcome any discussion on this topic.
+- My current research focuses on **agentic robotics** and **humanoid robots**.
+- More broadly, I am interested in robotics, embodied AI, and autonomous driving.
+
+I welcome [discussions on these topics](mailto:bozhouzhang2023@163.com).
 
 
 
