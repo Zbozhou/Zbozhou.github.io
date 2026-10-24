@@ -114,6 +114,17 @@ autonomous_driving:
 
 preprint:
 
+  - title: 'Training in Deployment: Human-in-the-loop Online Post-Training for Robot Manipulation'
+    authors: Chun Gu*, Xiaofei Wei*, Yiming Chen, <strong>Bozhou Zhang</strong>, Juntong Zhang, Xiatian Zhu, Li Zhang
+    conference_short: arXiv 2610
+    conference: arXiv 2610.29264
+    pdf: https://arxiv.org/abs/2610.29264
+    code: https://github.com/LogosIntelligenceLab/TIDE
+    page: https://logosintelligencelab.github.io/TIDE/
+    image: assets/img/zbz/2026arxiv_tide.png
+    image_width: 2400
+    image_height: 997
+
   - title: 'Forward Dynamics Models'
     authors: Zipei Ma, Junzhe Jiang, Jiahui Zhang, Juntong Zhang, Chun Gu, <strong>Bozhou Zhang</strong>, Jiankang Deng, Xiatian Zhu, Li Zhang
     conference_short: arXiv 2610
