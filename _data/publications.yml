@@ -23,6 +23,15 @@ robotics:
 
 autonomous_driving:
 
+  - title: 'STEER: Route-Aware Adaptive Reasoning for Autonomous Driving'
+    authors: Yangang Zou, Pei Liu, Nan Song, <strong>Bozhou Zhang</strong>, Mingyu Guo, Jun Ma, Jiankang Deng, Xiatian Zhu, Li Zhang
+    conference_short: NeurIPS 2026
+    conference: Annual Conference on Neural Information Processing Systems
+    pdf: https://arxiv.org/abs/2611.00718
+    image: assets/img/zbz/2026neurips_steer.png
+    image_width: 3499
+    image_height: 1643
+
   - title: 'See Tomorrow, Act Today: Foresight-Driven Autonomous Driving'
     authors: <strong>Bozhou Zhang</strong>*, Nan Song*, Yuang Wang, Jiankang Deng, Xiatian Zhu, Li Zhang
     conference_short: CVPR Findings 2026
