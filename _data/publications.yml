@@ -124,6 +124,7 @@ autonomous_driving:
 preprint:
 
   - title: 'Training in Deployment: Human-in-the-loop Online Post-Training for Robot Manipulation'
+    area: robotics
     authors: Chun Gu*, Xiaofei Wei*, Yiming Chen, <strong>Bozhou Zhang</strong>, Juntong Zhang, Xiatian Zhu, Li Zhang
     conference_short: arXiv 2610
     conference: arXiv 2610.29264
@@ -135,6 +136,7 @@ preprint:
     image_height: 997
 
   - title: 'Forward Dynamics Models'
+    area: robotics
     authors: Zipei Ma, Junzhe Jiang, Jiahui Zhang, Juntong Zhang, Chun Gu, <strong>Bozhou Zhang</strong>, Jiankang Deng, Xiatian Zhu, Li Zhang
     conference_short: arXiv 2610
     conference: arXiv 2610.13117
@@ -146,6 +148,7 @@ preprint:
     image_height: 832
 
   - title: 'PRICE the Action Chunks: Physical Relational Credit Assignment for Embodied Reinforcement Learning'
+    area: robotics
     authors: Yangang Zou, Jiajun Lu, Weitao Zhou, Haibao Yu, <strong>Bozhou Zhang</strong>, Jiawei Wang, Honglong Tian, Minglei Li, Li Zhang
     conference_short: arXiv 2609
     conference: arXiv 2609.38890
@@ -155,6 +158,7 @@ preprint:
     image_height: 2720
 
   - title: 'LMAD: Integrated End-to-End Vision-Language Model for Explainable Autonomous Driving'
+    area: autonomous_driving
     authors: Nan Song, <strong>Bozhou Zhang</strong>, Xiatian Zhu, Jiankang Deng, Li Zhang
     conference_short: arXiv 2508
     conference: arXiv 2508.12404
@@ -164,6 +168,7 @@ preprint:
     image_height: 1100
 
   - title: 'DeMo++: Motion Decoupling for Autonomous Driving'
+    area: autonomous_driving
     authors: <strong>Bozhou Zhang</strong>*, Nan Song*, Xiatian Zhu, Li Zhang
     conference_short: arXiv 2507
     conference: arXiv 2507.17342
